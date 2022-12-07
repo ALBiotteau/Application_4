@@ -32,4 +32,4 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 j ecris des phrases sans ponctuation ni majuscule lalala
 
 
-
+test ajout sur branche Biotteau-AnneLise

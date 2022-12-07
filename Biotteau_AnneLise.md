@@ -13,4 +13,6 @@ puis une deuxieme phrase
 
 puis une troisieme phrase
 
-pour tester la generation de conflits
+pour tester la generation de conflits 
+
+test de developpement de branche (voir nouveau script branche_perso)
